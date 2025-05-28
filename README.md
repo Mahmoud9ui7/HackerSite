@@ -1,2 +1,2 @@
 # HackerSite
-it's practise for taking Images when u  give access for the site
+it's practise for taking Images when u  give access for the camera 
